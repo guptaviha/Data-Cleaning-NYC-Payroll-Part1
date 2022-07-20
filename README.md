@@ -1,4 +1,10 @@
-# NYC-Citywide-Payroll-Data-Profiling-and-Cleaning
+# NYC Payroll Data Cleaning Part1
+
+An academic project for Big Data (CS-GY-6513) at NYU Tandon with Prof Juliana Freire.
+
+Objective: To perform exploratory analysis on the provided [NYC Citywide Payroll Dataset](https://data.cityofnewyork.us/City-Government/Citywide-Payroll-Data-Fiscal-Year-/k397-673e) and identify data quality issues.
+
+For more details: [Prompt](https://github.com/guptaviha/NYC-Payroll-Data-Cleaning-1/blob/main/Project-Prompt.pdf) 
 
 **Steps to reproduce:**
 
