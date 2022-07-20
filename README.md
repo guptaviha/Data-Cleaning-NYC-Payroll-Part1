@@ -6,7 +6,7 @@ Objective: To perform exploratory analysis on the provided [NYC Citywide Payroll
 
 For more details: [Prompt](https://github.com/guptaviha/NYC-Payroll-Data-Cleaning-1/blob/main/Project-Prompt.pdf) 
 
-**Steps to reproduce:**
+## Steps to reproduce
 
 1. Open the notebook in Google Colab by following the Collab link on the top of each notebook.
 
@@ -16,10 +16,10 @@ For more details: [Prompt](https://github.com/guptaviha/NYC-Payroll-Data-Cleanin
 
 This contains code and documentation for Assignment 3/Part 1 of Big Data Final project.
 
-**Contributers:**
+## Contributers
 
-st4324@nyu.edu
+Syed Ahmad - st4324@nyu.edu
 
-sys8910@nyu.edu
+Suyash Soniminde - sys8910@nyu.edu
 
-vg2237@nyu.edu
+Viha Gupta - vg2237@nyu.edu
