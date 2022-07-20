@@ -1,4 +1,4 @@
-# NYC Payroll Data Cleaning Part1
+# Data Cleaning NYC Payroll Part1
 
 An academic project for Big Data (CS-GY-6513) at NYU Tandon with Prof Juliana Freire.
 
